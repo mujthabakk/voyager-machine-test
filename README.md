@@ -1,6 +1,19 @@
-admin user name: admin@gmail.com
-admin password: admin@123
+## 👨‍💼 Admin Login
 
-user name :mujthabakk@gmail.com
+- **Username:** `admin@gmail.com`
+- **Password:** `admin@123`
 
-user password:mujthabakk@
+## 👤 User Login
+
+- **Username:** `mujthabakk@gmail.com`
+- **Password:** `mujthabakk@`
+
+---
+
+## 🔧 Tech Stack Details
+
+- **Backend:** Firebase
+- **State Management:** Riverpod
+- **Email Service:** `mailer` package (Dart)
+
+---
