@@ -1,0 +1,48 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "voyager-test-b3675",
+          "appId": "1:958968841023:android:d795ea5a8d394ed191898a",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "voyager-test-b3675",
+          "appId": "1:958968841023:ios:a6086fca1612dde091898a",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "voyager-test-b3675",
+          "appId": "1:958968841023:ios:a6086fca1612dde091898a",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "voyager-test-b3675",
+          "configurations": {
+            "android": "1:958968841023:android:d795ea5a8d394ed191898a",
+            "ios": "1:958968841023:ios:a6086fca1612dde091898a",
+            "macos": "1:958968841023:ios:a6086fca1612dde091898a",
+            "web": "1:958968841023:web:11f42fa16fab35cb91898a",
+            "windows": "1:958968841023:web:e0e2dd7c2a6943ea91898a"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}
